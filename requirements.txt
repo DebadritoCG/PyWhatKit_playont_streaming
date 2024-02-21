@@ -8,3 +8,5 @@ flask~=2.2.2
 setuptools~=62.1.0
 pyperclip~=1.8.2
 keyboard~=0.13.5
+yt-dlp==2023.12.30
+python-vlc==3.0.20123
